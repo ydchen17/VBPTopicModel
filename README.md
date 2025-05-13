@@ -1,8 +1,8 @@
 # Public Perception of Volume-Based Procurement in China: A Social Intelligence Analysis
 
-China's VBP policy seeks to reduce drug prices through bulk purchasing agreements, impacting various stakeholders within the healthcare system. Understanding public perception of such policies is crucial for policymakers and healthcare providers. This project utilises Natural Language Processing (NLP) methods to analyse public discourse and extract prevalent topics and sentiments.
-
 This repository accompanies a research project analysing public opinion on China's Volume-Based Procurement (VBP) policy in the pharmaceutical sector during January 2025. Employing advanced topic modelling techniques, the study aims to uncover the underlying themes and sentiments expressed by the public regarding VBP. 
+
+China's VBP policy seeks to reduce drug prices through bulk purchasing agreements, impacting various stakeholders within the healthcare system. Understanding public perception of such policies is crucial for policymakers and healthcare providers. This project utilises Natural Language Processing (NLP) methods to analyse public discourse and extract prevalent topics and sentiments.
 
 ## Key Points
 
